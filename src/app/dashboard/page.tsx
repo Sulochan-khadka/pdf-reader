@@ -7,7 +7,7 @@ const Page = () => {
   return (
     <div>
       {/* {`Hey ${user.email}, Welcome to Quill`} */}
-      hello
+      hello user this is not working
     </div>
   );
 };
